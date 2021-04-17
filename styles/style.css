@@ -60,3 +60,19 @@ nav a:hover{
     text-decoration: underline;
     text-decoration-color: blue;
 }
+
+.gridContainer{
+     width: 100%;
+     display: grid;
+     grid-template-columns: 1fr 1fr 1fr 1fr;
+     grid-template-rows: 1fr; 
+     grid-gap: 0 10px; 
+     
+}
+
+
+
+
+
+
+
